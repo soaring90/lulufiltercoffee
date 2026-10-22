@@ -1,0 +1,15 @@
+{
+  "name": "LuluFilterCoffee",
+  "short_name": "LuluFilterCoffee",
+  "description": "Filter coffee brew journal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#efede7",
+  "theme_color": "#1e5d63",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
